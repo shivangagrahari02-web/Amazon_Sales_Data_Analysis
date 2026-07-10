@@ -1,4 +1,4 @@
-## Amazon Sales Data Analysis
+## Executive Summary
 
 - Analyzed Amazon Brazil’s e-commerce data to uncover customer purchasing behavior, payment preferences, product performance, and seasonal sales patterns that could support strategic decisions for Amazon India.
 - Structured and imported a relational dataset into PostgreSQL, working with linked tables such as customers, orders, order items, products, sellers, and payments to build a complete analytical workflow.
